@@ -1,11 +1,19 @@
-![21 Savage](public/21savage.jpg)
+# My Brewery Project
+This app allows you to search the state you are in and allows you to comment.
 
-## Installation
 
-1. Clone repo
-2. run `npm install`
+![alt tag](brew.png)
 
-## Usage
+## How It's Made:
 
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
+
+In this app I used a DB to store information people put for brewerys. 
+
+
+
+## Lessons Learned:
+
+I learned how to connect my app to a DB.
+
+

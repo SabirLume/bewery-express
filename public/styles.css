@@ -51,6 +51,7 @@ button{
   cursor:pointer;
   overflow: hidden;
   outline:none;
+  background: transparent;
 }
 
 button:hover{
@@ -60,7 +61,7 @@ button:hover{
   color:red;
 }
 .fa-thumbs-up{
-  color:limegreen;
+  color:green;
 }
 .fa-thumbs-down{
   color:cornflowerblue;
