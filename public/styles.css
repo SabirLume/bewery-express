@@ -1,0 +1,75 @@
+*:focus{
+  outline:none;
+}
+body{
+  background: black;
+  color: white;
+  background-image: url(brews.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+h3{
+  margin-top: 40px;
+}
+h1, .why{
+  text-align: center;
+}
+li{
+  list-style: none;
+  font-size: 1.2rem;
+}
+p{
+  font-size: 1.2rem;
+
+}
+.black{
+  color: black;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+input{
+  color: white;
+  height: 26px;
+  font-size: 1.2rem;
+  border-color: rgb(248, 248, 248);
+  background-color: transparent;
+  border-bottom: 2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+button{
+  border-radius: 10px;
+  height: 30px;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+}
+
+button:hover{
+  color: red;
+}
+.fa-trash{
+  color:red;
+}
+.fa-thumbs-up{
+  color:limegreen;
+}
+.fa-thumbs-down{
+  color:cornflowerblue;
+}
+
+
+
+
+/* Not my code */
+input::-webkit-input-placeholder {
+  color: white !important;
+  }
